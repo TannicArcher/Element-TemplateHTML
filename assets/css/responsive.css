@@ -1,0 +1,2263 @@
+@media (max-width: 1200px) {
+.log-in-sec {
+    margin-left: 8px;
+}
+.open-menu {
+    display: none;
+}
+#features-parallax img {
+    width: 100%;
+}
+.event-box:hover .event-desc > .line2 {
+    top: 85px;
+}
+.event-box:hover .event-desc > .line3 {
+    top: 110px;
+}
+.event-box:hover .event-desc > .line4 {
+    top: 134px;
+}
+.social-btns > li > a {
+    margin-right: 5px;
+}
+.our-blog-link2 > h2 {
+    font-size: 12px;
+    line-height: 20px;
+    padding: 0 14px;
+    margin: -19px 0px;
+}
+.our-clients > a > img {
+    width: 100%;
+}
+.our-clients > a {
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.testimonial-sec2 .owl-pagination {
+    margin-top: 10px;
+}
+.service4 > i {
+    margin: 0 auto;
+    display: table;
+    float: none;
+}
+.service4 > h2 {
+    margin-top: 6px;
+    margin-bottom: 0;
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+.service4 > p {
+    margin-top: 10px;
+}
+#recent-work-nav > ul > li > a > i {
+    margin-right: 10px;
+}
+.ceo-detals2 > p {
+    font-size: 22px;
+    margin: 0 0 30px;
+}
+.our-project-sec h3 {
+    padding: 0;
+}
+.heading1 > h2 {
+    font-size: 18px;
+    padding-right: 20px;
+}
+.success-work-left > h3 {
+    font-size: 15px;
+}
+.our-pan-details {
+    padding-right: 30px;
+}
+.portfolio-box > h3 {
+    font-size: 13px;
+    padding: 12px 0;
+}
+.event-desc > h3 {
+    font-size: 13px;
+}
+.price-category > h3 {
+    font-size: 22px;
+}
+.shop-brands > img {
+    float: left;
+    width: 100%;
+}
+.business2-top-bar > span {
+    margin: 13px 15px 13px 0;
+}
+.w-our-branches li span {
+    margin-bottom: 10px;
+}
+.w-our-branches ul li {
+    padding: 10px;
+}
+.portfolio-head > h3 {
+    font-size: 12px;
+    line-height: 22px;
+    margin: 18px 0 0;
+    padding: 0 10px;
+}
+.all-project-desc > h2 {
+    font-size: 14px;
+}
+.all-project-desc > span > i {
+    font-size: 11px;
+}
+.project-info-box > span.dark {
+    font-size: 12px;
+}
+.project-info-box > span.light {
+    font-size: 12px;
+}
+.countdown-project {
+    padding: 14px 0 23px;
+}
+.project-info-box > span.light {
+    line-height: 16px;
+}
+.find-a-job > form#job {
+    margin-right: 15px;
+}
+.find-a-job > form#place > input {
+    margin-right: 15px;
+}
+.our-cases-box > h3 {
+    font-size: 13px;
+}
+.our-cases-box > p {
+    font-size: 12px;
+}
+.event-count > ul > li {
+    margin-right: 17px;
+}
+.event-count > ul > li > span {
+    font-size: 18px;
+}
+.meta-tags > li {
+    margin-right: 5px;
+}
+.w-get-help > ul > li ul li i {
+    margin-right: 5px;
+}
+.w-top-faq ul li i {
+    margin-bottom: 30px;
+}
+.gallery > h2 {
+    font-size: 15px;
+}
+.gallery > ul > li > a {
+    padding: 8px;
+}
+.post-metas > ul > li > a > i {
+    display: none;
+}
+.post-metas > ul > li > a {
+    padding: 8px;
+}
+.comment-avatar {
+    display: table;
+    float: none;
+    margin: 0 auto 10px;
+    width: 87px;
+}
+.user-comment {
+    width: 100%;
+}
+#comment > ul > li > ul > li > .comment > .user-comment {
+    width: 100%;
+}
+#comment > ul > li > ul {
+    padding: 0;
+}
+#comment > ul > li > ul > li > ul {
+    padding: 0;
+}
+#comment > ul > li > ul > li > ul > li .comment > .user-comment {
+    width: 100%;
+}
+.tab-project > h3, .tab-work > h3, .tab-article h3, .tab-video > h3 {
+    line-height: 24px;
+}
+.theme-layout.boxed{
+	width:95%;
+}
+.toll-contact {
+    padding: 61px 0;
+}
+.job-table > ul > li > span {
+    padding-left: 12px;
+}
+.tab-project > h3, .tab-work > h3, .tab-article h3, .tab-video > h3 {
+    font-size: 13px;
+}
+.features-parallex > li > h3 {
+    font-size: 15px;
+}
+.features-parallex > li > span {
+    margin-bottom: 20px;
+}
+.f-recent-office > ul > li > a > i {
+    display: block;
+    float: none;
+}
+.f-recent-office > ul > li > strong {
+    margin-top: 0px;
+}
+#success-work-nav > ul > li > a {
+    padding: 20px 20px;
+}
+.about-tab-desc > ul > li {
+    margin: 0;
+    width: 50%;
+}
+.purchase-bar > p {
+    font-size: 16px;
+}
+.news-detials > p {
+    width: 88%;
+}
+.news-detials > h3 {
+    top: 20%;
+}
+.news-detials > p {
+    top: 22%;
+}
+.quantity > p {
+    padding: 0 10px;
+}
+.heading2 > h2 {
+    font-size: 15px;
+}
+.service-single-desc > h3 {
+    font-size: 18px;
+}
+.f-testimonail > .tab-content > div {
+    padding: 25px 10px;
+}
+.experties > h2{
+	font-size:13px;
+}
+.success-work > h2 {
+    line-height: 22px;
+    margin: 10px 0;
+}
+.slide1-text2 {
+    margin-left: -80px !important;
+}
+.our-clients a {
+    width: 100%;
+}
+.our-clients a > img {
+    float: left;
+    width: 100%;
+}
+.toll-details > span {
+    margin-bottom: 30px;
+}
+.toll-details > a {
+    margin-right: 20px;
+}
+.we-are-Slide > img {
+    float: left;
+    width: 100%;
+}
+.emp-of-month-desc > span {
+    line-height: 18px;
+}
+.emp-of-month-desc > ul > li {
+    margin-right: 3px;
+}
+.comming-soon-slider {
+    height: 100%;
+}
+.profile-social > ul > li {
+    margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media (min-width: 768px) and (max-width: 980px) {
+.slide2-text3 {
+    padding: 15px 30px;
+    margin-top: 41px;
+}
+.slide2-text2 {
+    padding: 15px 30px;
+    margin-top: 37px;
+}
+.slide3-text1 > li {
+    margin-top: -19px;
+    width: 78%;
+    overflow: hidden;
+}
+.service span {
+    float: none;
+    margin: 0 auto;
+    display: table;
+    margin-bottom: 10px;
+}
+.service div > a {
+    width: 100%;
+    text-align: center;
+}
+.service div > a > i {
+    float: none;
+	font-size:12px;
+}
+.service h2 {
+    margin: 5px 0 10px;
+    text-align: center;
+}
+.service p {
+    text-align: center;
+}
+.business1.style2 #menu-sec.sticky > .container > .log-in-sec {
+    margin-top: 0;
+}
+
+.business1.style2 #menu-sec.sticky > .container > .log-in-sec > a {
+    margin: 0;
+}
+.business1 {
+    position: static;
+    float: left;
+}
+.business2-menu {
+    display: none;
+}
+.mega-menu.left {
+    left: 50%;
+    margin-left: -400px;
+    top: 35px;
+    z-index: 9999;
+}
+.mega-menu.right {
+    left: 50%;
+    margin-left: -400px;
+    top: 35px;
+    z-index: 9999;
+}
+.mega-menu.center {
+    left: 50%;
+    margin-left: -400px;
+    top: 35px;
+    z-index: 9999;
+}
+.open-menu {
+    display: block;
+}
+.business1-top-bar > span {
+    display: table;
+    float: none;
+    margin: 10px auto 0;
+}
+.business1-top-bar > ul {
+    display: none;
+}
+.business1-top-bar > form {
+    display: table;
+    float: none;
+    margin: 10px auto 0;
+    position: static;
+}
+.business1-top-bar {
+    padding-bottom: 10px;
+}
+#menu-sec {
+    height: auto;
+}
+.business1 .logo {
+    float: none;
+    margin: 0 auto;
+    display: table;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.log-in-sec {
+    margin-top: -81px;
+    margin-left: 0;
+}
+.business1-menu {
+    display: none;
+    float: none;
+    margin: 0 auto;
+    position: absolute;
+    width: 300px;
+    left: 50%;
+    margin-left: -150px;
+	z-index: 999999999;
+}
+.slider {
+    margin: 0;
+}
+.slider-social > a {
+    width: 25%;
+}
+#features-parallax img {
+    display: none;
+}
+.service2 {
+    margin-bottom: 30px;
+}
+.ceo-plan-box > .row > div > img {
+    width: 100%;
+}
+.ceo-plan-box .video-paralax {
+    margin-bottom: 70px;
+    margin-top: 70px;
+}
+.upcoming-event-sec2 {
+    margin-top: 70px;
+}
+.f-about-dastak > form {
+    margin-top: 30px;
+}
+.skills-box {
+    float: left;
+    width: 100%;
+}
+.skills-box > li {
+    margin: 30px 0 0;
+    width: 100%;
+}
+.f-about-dastak {
+    margin-bottom: 30px;
+}
+.tab-sec {
+    margin-bottom: 30px;
+}
+.f-testimonail > .nav-tabs {
+    margin-bottom: 15px;
+    width: 100%;
+}
+.f-testimonail > .nav-tabs > li {
+    width: 33.333%;
+}
+.f-testimonail > .nav-tabs > li:before {
+    display: none;
+}
+.f-testimonail > .nav-tabs > li > a {
+    float: none;
+    margin: 0 auto;
+    display: table;
+}
+.f-testimonail > .nav-tabs > li.active > a {
+    float: none;
+    margin: 0 auto;
+    display: table;
+}
+.f-testimonail .tab-content {
+    width: 100%;
+}
+.f-testimonail > .tab-content > div {
+    padding: 25px 15px;
+}
+.f-find-office {
+    margin-top: 30px;
+}
+.f-recent-office {
+    margin-top: 30px;
+}
+.f-recent-office > ul > li > a > i {
+    width: 85%;
+}
+#employee-img > img {
+    float: none;
+    margin: 0 auto;
+    display: table;
+}
+.video-paralax {
+    margin-bottom: 30px;
+    margin-top: 0;
+    width: 100%;
+}
+.testimonial-sec2 {
+    margin-bottom: 70px;
+}
+.show-products-lcds > span.lcd-left {
+    left: 20px;
+}
+.show-products-lcds > span.lcd-right {
+    right: 20px;
+}
+.service4 {
+    margin-bottom: 30px;
+}
+.recent-work-left > p {
+    margin: 0 0 20px;
+}
+#recent-work-nav {
+    margin-bottom: 30px;
+}
+.recent-work {
+    width: 100%;
+}
+.latest-project {
+    margin-bottom: 30px;
+}
+.about-ceo-sec2 > img {
+    width: 100%;
+}
+.ceo-detals2 > h3 {
+    text-align: center;
+}
+.ceo-detals2 > p {
+    text-align: center;
+}
+.ceo-detals2 > ul {
+    float: none;
+    margin: 0 auto;
+    display: table;
+    width: auto;
+    margin-bottom: 70px;
+}
+.ltst-feature-box {
+    margin-bottom: 30px;
+}
+.our-project-sec a {
+    margin-bottom: 30px;
+}
+.service5 {
+    margin-bottom: 30px;
+}
+.purchase-bar > p {
+    float: none;
+    display: block;
+    font-size: 15px;
+}
+.purchase-bar > i {
+    font-size: 30px;
+    margin-right: 15px;
+}
+.purchase-bar > a {
+    float: left;
+    margin-top: 10px;
+}
+.latest-news {
+    margin-top: 30px;
+}
+#success-work {
+    float: left;
+    width: 100%;
+}
+#success-work > div {
+    float: left;
+    width: 100%;
+}
+.success-work {
+    width: 100%;
+}
+.success-work-left {
+    float: left;
+    width: 100%;
+    position: relative;
+    z-index: 2147483647;
+}
+.appointment-form-sec input.submit {
+    float: left;
+}
+.about-sec h3 {
+    margin-top: 30px;
+}
+.who-we-desc > h3 {
+    margin-top: 25px;
+}
+.shop-brands {
+    margin-top: 30px;
+}
+.slider-social > a {
+    width: 25%;
+}
+.inner-head-sec {
+    margin-top: 0;
+}
+.inner-head > h2 {
+    font-size: 14px;
+}
+#our-office-thumb > li {
+    width: 25%;
+}
+.w-our-branches {
+    margin-top: 30px;
+}
+.w-our-branches > ul {
+    width: 100%;
+}
+.w-our-branches ul li {
+    margin-bottom: 30px;
+}
+#service-sec {
+    float: left;
+    margin-top: 70px;
+    width: 100%;
+}
+#all-project-nav > ul > li {
+    margin-right: 10px;
+}
+#all-project-nav > ul > li > a {
+    padding: 14px 10px;
+}
+#all-project > div {
+    float: left;
+    width: 100%;
+}
+
+.award-timeline .award-timeline-box:before {
+    display: none;
+}
+.award-timeline .award-timeline-box:after {
+    display: none;
+}
+.c-pagination {
+    margin-bottom: 30px;
+}
+.s-flicr-widget .row {
+    float: left;
+    width: 100%;
+}
+.find-a-job > form#job {
+    width: 100%;
+}
+.find-a-job > form#place {
+    width: 100%;
+}
+.find-a-job > form#place {
+    margin-top: 30px;
+}
+.cart-sec > li .price, .cart-sec > li .quantity, .cart-sec > li .total{
+    border-bottom: 1px solid #C9C7C7;
+    width: 33.333%;
+}
+.cart-sec > li .product {
+    border-bottom: 1px solid #C9C7C7;
+    width: 100%;
+}
+.product > span {
+    width: 24%;
+}
+.cart-product-desc > h3 {
+    margin: 30px 0 0;
+}
+.cart-single-tab .tab-content {
+    margin-bottom: 32px;
+}
+.experties-sec.style2 {
+    margin: 0;
+}
+#our-cases-sec {
+  margin-bottom: 30px;
+}
+.heading4 {
+    float: left;
+}
+.s-faq-widget {
+    margin-top: 30px;
+}
+#w-employe-month2 {
+    margin-bottom: 30px;
+}
+.w-news-letter {
+    margin-bottom: 30px;
+}
+.event-count > ul > li {
+    width: 23%;
+}
+.event-count > ul > li {
+    margin-right: 6px;
+}
+.event-single {
+    margin-bottom: 30px;
+}
+#portfolio-nav > ul > li > a {
+    padding: 12px 15px;
+}
+#portfolio-nav > ul > li {
+    margin-right: 5px;
+}
+#portfolio-nav > ul > li > a {
+    margin-bottom: 5px;
+}
+#portfolio-work > div{
+	float:left;
+	width:100%;
+}
+.project img {
+    margin-bottom: 30px;
+}
+.register-form > .row > div > form {
+    float: left;
+    width: 100%;
+}
+
+.tab-project img, .tab-article img {
+    margin-bottom: 20px;
+}
+.slide4-text2 {
+    font-size: 20px;
+}
+.slide4-text3 {
+    padding: 13px 14px;
+}
+.slide3-text1 > li > i {
+    font-size: 21px;
+    height: 50px;
+    line-height: 50px;
+    width: 50px;
+}
+.slide3-text1 > li > h3 {
+    font-size: 15px;
+}
+.slide3-text1 {
+    margin-top: 28px !important;
+}
+.slide1-btn1 {
+    margin-top: 33px;
+}
+.slide1-btn2 {
+    margin-top: 33px;
+}
+.toll-contact {
+    width: 100%;
+}
+
+.toll-contact:before {
+    display: none;
+}
+.toll-details {
+    width: 100%;
+    position: relative;
+    float: left;
+}
+.theme-layout.boxed{
+	width:95%;
+}
+header.business2 {
+    position: static;
+}
+.business1.style2 .business1-top > .container > .business1-top-bar > span.top-mail {
+    margin: 0;
+}
+
+.business1.style2 .business1-top > .container > .business1-top-bar > span.top-contact:before {
+    display: none;
+}
+.business1.style2 .business1-top > .container > .business1-top-bar > span.top-contact {
+    padding: 8px;
+    background: none;
+}
+
+.business1.style2 .business1-top > .container > .business1-top-bar:before {
+    display: none;
+}
+.job-table {
+    margin-top: 30px;
+}
+.subscribe-sec span#mail-bg {
+    float: none;
+    margin: 0 auto;
+    display: table;
+    margin-top: 30px;
+}
+.subscribe-sec form {
+    margin: 0;
+}
+.subscribe-sec .input-style {
+    width: 100%;
+	margin:0;
+}
+.subscribe-sec form > .submit {
+    float: none;
+    margin: 0 auto;
+    display: table;
+}
+.subscribe-sec span#mail-bg {
+    height: 138px;
+}
+.show-products-lcds > span {
+    float: left;
+    width: 100%;
+}
+.show-product > h2 {
+    margin: 30px 0 15px;
+}
+#show-product-slide .owl-buttons {
+    left: 0;
+    margin-bottom: 50px;
+    top: auto;
+    bottom: 0;
+}
+#whats-new {
+    margin-top: 55px;
+}
+.slide-feature-box {
+    margin-bottom: 10px;
+}
+.emp-of-month-desc > h3 {
+    text-align: center;
+    margin-top: 10px;
+}
+.emp-of-month-desc > span {
+    text-align: center;
+}
+.emp-of-month-desc > ul {
+    float: none;
+    margin: 0 auto;
+    display: table;
+    width: auto;
+    margin-bottom: 18px;
+}
+.emp-of-month-desc > p {
+    margin-bottom: 15px;
+}
+.event-count > h3 {
+    margin-top: 22px;
+}
+.video-frame {
+    margin-bottom: 30px;
+}
+.profile-social > ul > li {
+    float: left;
+    width: 25%;
+}
+.countdown-project {
+    padding: 18px 0 23px;
+}
+.latest-job-sec {
+    float: left;
+    margin-bottom: 30px;
+    width: 100%;
+}
+.submit {
+    float: left;
+    margin: 0 auto 30px;
+}
+.profile-social > ul > li > a {
+    display: table;
+    float: none;
+    margin: 0 auto;
+    width: auto;
+}
+.show-products-lcds > span > img {
+    float: left;
+    width: 100%;
+}
+.subscribe-sec form > label {
+    margin: 0;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.subscribe-sec {
+    padding-bottom: 30px;
+}
+.our-clients {
+    margin-bottom: 30px;
+}
+.our-team-box:hover .team-title:after {
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+.testimonial-sec li > p {
+    padding: 0 0;
+}
+.our-clients2 {
+    margin-bottom: 30px;
+}
+
+#tab-mobile {
+    float: left;
+    width: 100%;
+    margin-top: 30px;
+}
+.tab-work {
+    margin-bottom: 30px;
+}
+.layer-desc > i {
+    display: none;
+}
+.appointment-sec {
+    margin-top: 30px;
+}
+.our-team-sec.with-parallax .our-team-box:hover .team-title:after {
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+.event-box:hover .event-desc {
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+.w-top-faq ul li i {
+    margin-bottom: 0;
+}
+header.business1 .for-sticky.sticky {
+    position: static;
+}
+.business1-menu > ul > li > ul > li > a {
+    font-size: 12px;
+}
+input.upload-file {
+    float: left;
+    width: 100%;
+}
+.service-single-desc {
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+}
+
+@media (max-width: 767px) {
+.service span {
+    float: none;
+    margin: 0 auto;
+    display: table;
+    margin-bottom: 10px;
+}
+.service div > a {
+    width: 100%;
+    text-align: center;
+}
+.service div > a > i {
+    float: none;
+	font-size:12px;
+}
+.service h2 {
+    margin: 5px 0 10px;
+    text-align: center;
+}
+.service p {
+    text-align: center;
+}
+.parallax h3 {
+    font-size: 22px;
+}
+
+.parallax h3 > i {
+    font-size: 18px;
+}
+.business1.style2 #menu-sec.sticky > .container > .log-in-sec {
+    margin-top: 0;
+}
+.slide2-text2 {
+    font-size: 19px;
+    padding: 15px 30px;
+}
+.slide2-text3 {
+    margin: 47px 0 0;
+}
+.slide2-text1 {
+    font-size: 22px;
+    padding: 18px 30px;
+}
+.slide2-text1 > i {
+    font-size: 14px;
+}
+.slide3-text1 {
+    display: none !important;
+}
+.business1.style2 #menu-sec.sticky > .container > .log-in-sec > a {
+    margin: 0;
+}
+.slider {
+    margin: 0;
+}
+.business1 {
+    position: static;
+    float: left;
+}
+.business2-menu {
+    display: none;
+}
+header.business2 {
+    position: static;
+}
+.inner-head-sec {
+    margin: 0;
+}
+.mega-menu.left {
+    left: 0;
+    margin: 0;
+    top: 35px;
+    width: 300px;
+    z-index: 9999;
+}
+.mega-menu.right {
+    left: 0;
+    margin: 0;
+    top: 35px;
+    width: 300px;
+    z-index: 9999;
+}
+.mega-menu.center {
+    left: 0;
+    margin: 0;
+    top: 35px;
+    width: 300px;
+    z-index: 9999;
+}
+.open-menu {
+    display: block;
+}
+.open-menu {
+    display: block;
+}
+.business1-top-bar > span {
+    display: table;
+    float: none;
+    margin: 10px auto 0;
+}
+.business1-top-bar > ul {
+    display: none;
+}
+.business1-top-bar > form {
+    display: table;
+    float: none;
+    margin: 10px auto 0;
+    position: static;
+}
+.business1-top-bar {
+    padding-bottom: 10px;
+}
+#menu-sec {
+    height: auto;
+}
+.business1 .logo {
+    float: none;
+    margin: 0 auto;
+    display: table;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.log-in-sec {
+    margin-top: -81px;
+    margin-left: 0;
+}
+.business1-menu {
+    display: none;
+    float: none;
+    margin: 0 auto;
+    position: absolute;
+    width: 300px;
+    left: 50%;
+    margin-left: -150px;
+	z-index:99999999999;
+}
+.slider {
+    margin-top: 0;
+}
+.slider-social > a {
+    width: 25%;
+}
+.business1 .container {
+    padding: 0 15px;
+}
+.block .container {
+    padding: 0 15px;
+    position: relative;
+}
+.service {
+    margin-bottom: 30px;
+}
+#features-parallax img {
+    display: none;
+}
+.f-about-dastak > form {
+    margin-top: 30px;
+}
+.f-testimonail {
+    margin-top: 30px;
+}
+.f-testimonail > .nav-tabs {
+    margin-bottom: 15px;
+    width: 100%;
+}
+.f-testimonail > .nav-tabs > li {
+    width: 33.333%;
+}
+.f-testimonail > .nav-tabs > li:before {
+    display: none;
+}
+.f-testimonail > .nav-tabs > li > a {
+    float: none;
+    margin: 0 auto;
+    display: table;
+}
+.f-testimonail > .nav-tabs > li.active > a {
+    float: none;
+    margin: 0 auto;
+    display: table;
+}
+.f-testimonail .tab-content {
+    width: 100%;
+}
+.f-testimonail > .tab-content > div {
+    padding: 25px 15px;
+}
+.f-find-office {
+    margin-top: 30px;
+}
+.f-recent-office {
+    margin-top: 30px;
+}
+.f-recent-office > ul > li > a > i {
+    width: 85%;
+}
+.service2 {
+    margin-bottom: 30px;
+}
+.layer-desc > i {
+    display: none;
+}
+.ceo-plan-box > .row > div > img {
+    width: 100%;
+}
+.tab-project img, .tab-article img {
+    margin-bottom: 30px;
+}
+.tab-sec {
+    margin-bottom: 30px;
+}
+.skills-box {
+    float: left;
+    width: 100%;
+}
+.skills-box > li {
+    margin: 30px 0 0;
+    width: 100%;
+}
+#show-product-slide .owl-buttons {
+    margin-top: -49px;
+    top: auto;
+}
+.show-products-lcds > span {
+    float: left;
+    width: 100%;
+}
+.show-products-lcds > span > img {
+    float: left;
+    width: 100%;
+	margin-bottom:20px;
+}
+.toll-details > h3 {
+    font-size: 15px;
+}
+#whats-new > h1 {
+    font-size: 35px;
+}
+.slide-feature-box {
+    margin-bottom: 10px;
+}
+.emp-of-month-desc > h3 {
+    text-align: center;
+    margin-top: 10px;
+}
+.emp-of-month-desc > span {
+    text-align: center;
+}
+.emp-of-month-desc > ul {
+    display: table;
+    float: none;
+    margin: 0 auto;
+    padding: 0;
+    width: auto;
+}
+.timer {
+    float: left;
+    width: 100%;
+	margin-bottom:30px;
+}
+.comming-soon-page h2 {
+    font-size: 20px;
+}
+.video-frame {
+    margin-bottom: 30px;
+}
+.emp-of-month-desc > p {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.ceo-plan-box .video-paralax {
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
+.upcoming-event-sec2 {
+    margin-top: 70px;
+}
+#employee-img > img {
+    width: 100%;
+}
+.video-paralax {
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+.testimonial-sec2 {
+    margin-bottom: 30px;
+}
+.show-products-lcds > span.lcd-left {
+    left: 10px;
+}
+.show-products-lcds > span.lcd-right {
+    right: 10px;
+}
+.service4 {
+    margin-bottom: 30px;
+}
+.recent-work {
+    width: 100%;
+}
+.latest-project {
+    margin-bottom: 30px;
+}
+.about-ceo-sec2 > img {
+    width: 100%;
+}
+.ceo-detals2 > h3 {
+    text-align: center;
+}
+.ceo-detals2 > p {
+    text-align: center;
+}
+.ceo-detals2 > ul {
+    display: table;
+    float: none;
+    margin: 0 auto 70px;
+    width: auto;
+}
+.ltst-feature-box {
+    margin-bottom: 30px;
+}
+.our-project-sec a {
+    margin-bottom: 30px;
+}
+.service5 {
+    margin-bottom: 30px;
+}
+.purchase-bar > i {
+    font-size: 25px;
+}
+.purchase-bar > p {
+    display: block;
+    float: none;
+}
+.latest-news {
+    margin-bottom: 30px;
+}
+.success-work-left {
+    width: 100%;
+}
+#success-work {
+    float: left;
+    width: 100%;
+}
+.success-work-left {
+    width: 100%;
+    float: left;
+    position: relative;
+    z-index: 999;
+}
+.success-work {
+    width: 100%;
+}
+#success-work > div {
+    float: left;
+    width: 100%;
+}
+.appointment-sec {
+    margin-top: 30px;
+}
+.appointment-form-sec input.submit {
+    float: left;
+}
+.about-sec h3 {
+    margin: 25px 0;
+}
+#our-team-slide {
+    float: left;
+    margin-top: 30px;
+}
+#our-team-slide {
+    width: 100%;
+}
+.shop-brands {
+    margin-top: 30px;
+}
+.inner-head > h2 {
+    line-height: 25px;
+}
+.s-flicr-widget > .row {
+    width: 100%;
+}
+#our-office-thumb > li {
+    width: 25%;
+}
+#our-office-thumb {
+    margin-bottom: 30px;
+}
+.w-our-branches > ul {
+    width: 100%;
+}
+.register-form > .row > div > form {
+    float: left;
+    width: 100%;
+}
+.project img {
+    margin-bottom: 30px;
+}
+#portfolio-nav > ul > li {
+    width: 100%;
+}
+#portfolio-nav > ul > li > a {
+    margin-bottom: 10px;
+    width: 100%;
+}
+#portfolio-work > div {
+    float: left;
+    width: 100%;
+}
+.c-pagination {
+    margin-bottom: 30px;
+}
+.heading4 {
+    float: left;
+}
+.cart-product-desc > h3 {
+    margin: 15px 0 0;
+}
+.cart-single-tab .tab-content {
+    margin-bottom: 30px;
+}
+.cart-sec > li .price, .cart-sec > li .quantity, .cart-sec > li .total{
+    border-bottom: 1px solid #C9C7C7;
+    width: 33.333%;
+}
+.cart-sec > li .product {
+    border-bottom: 1px solid #C9C7C7;
+    width: 100%;
+}
+.product > span {
+    width: 31%;
+}
+.find-a-job > form#job {
+    margin: 0;
+    width: 100%;
+}
+.find-a-job > form#place {
+    margin-top: 15px;
+    width: 100%;
+}
+
+.award-timeline .award-timeline-box:before {
+    display: none;
+}
+
+.award-timeline .award-timeline-box:after {
+    display: none;
+}
+#all-project-nav > ul > li {
+    margin-right: 0px;
+    margin-top: 10px;
+    width: 100%;
+}
+#all-project-nav > ul > li > a {
+    width: 100%;
+}
+#all-project > div {
+    float: left;
+    width: 100%;
+}
+.error-page > h2 {
+    font-size: 20px;
+}
+.error-page > h3 {
+    font-size: 14px;
+}
+.business1 {
+    position: static;
+	float:left;
+}
+.slide1-text1 {
+    font-size: 17px;
+    margin-top: -32px;
+}
+.slide1-text2 {
+    font-size: 19px;
+    margin: -6px 0 0;
+}
+.slide1-text3 {
+    font-size: 12px;
+    margin-top: 19px;
+}
+.slide3-text1 {
+    margin-top: -30px !important;
+}
+.slide3-text1 > li > i {
+    -webkit-border-radius: 9px;
+    -moz-border-radius: 9px;
+    -ms-border-radius: 9px;
+    -o-border-radius: 9px;
+    border-radius: 9px;
+	
+    font-size: 18px;
+    height: 40px;
+    line-height: 40px;
+    margin-right: 15px;
+    width: 40px;
+}
+.slide3-text1 > li > h3 {
+    font-size: 14px;
+    line-height: 9px;
+}
+.slide3-text1 li > p {
+    font-size: 12px;
+}
+.slide2-men > img {
+    float: left;
+    width: 80% !important;
+    height: 80% !important;
+    margin-top: 20%;
+    margin-left: 18%;
+}
+.slide4-text2 {
+    font-size: 15px;
+    margin-top: -30px;
+}
+.slide4-text3 {
+    font-size: 13px;
+    margin: 5px 0 0;
+    padding: 9px 11px;
+}
+.toll-contact {
+    width: 100%;
+}
+
+.toll-contact:before {
+    display: none;
+}
+.toll-details {
+    position: relative;
+    float: left;
+    width: 100%;
+}
+.theme-layout.boxed {
+    width: 100%;
+}
+.business1.style2 .business1-top > .container > .business1-top-bar > span.top-mail {
+    margin: 0;
+}
+
+.business1.style2 .business1-top > .container > .business1-top-bar > span.top-contact:before {
+    display: none;
+}
+.business1.style2 .business1-top > .container > .business1-top-bar > span.top-contact {
+    padding: 8px;
+    background: none;
+}
+
+.business1.style2 .business1-top > .container > .business1-top-bar:before {
+    display: none;
+}
+header.business1 .for-sticky.sticky {
+    position: static;
+    float: left;
+    width: 100%;
+}
+.job-table {
+    margin-top: 30px;
+}
+.subscribe-sec span#mail-bg {
+    float: none;
+    margin: 0 auto;
+    display: table;
+    margin-top: 30px;
+}
+.subscribe-sec form {
+    margin-top: 15px;
+}
+.subscribe-sec form > label {
+    margin: 0;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.subscribe-sec {
+    padding-bottom: 30px;
+}
+.our-clients {
+    margin-bottom: 30px;
+}
+.our-team-box:hover .team-title:after {
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+.testimonial-sec li > p {
+    padding: 0 0;
+}
+.our-clients2 {
+    margin-bottom: 30px;
+}
+
+#tab-mobile {
+    float: left;
+    width: 100%;
+    margin-top: 30px;
+}
+.tab-work {
+    margin-bottom: 30px;
+}
+.layer-desc > i {
+    display: none;
+}
+.appointment-sec {
+    margin-top: 30px;
+}
+.our-team-sec.with-parallax .our-team-box:hover .team-title:after {
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+.event-box:hover .event-desc {
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+.w-top-faq ul li i {
+    margin-bottom: 0;
+}
+header.business1 .for-sticky.sticky {
+    position: static;
+}
+.business1-menu > ul > li > ul > li > a {
+    font-size: 12px;
+}
+input.upload-file {
+    float: left;
+    width: 100%;
+}
+.service-single-desc {
+    margin-top: 30px;
+}
+
+.subscribe-sec > .container {
+    padding: 0 15px;
+}
+.subscribe-sec form > .input-style {
+    margin: 0;
+}
+.business1.style2 .toogle-cart-sec > .container > a {
+    right: 30px;
+}
+.portfolio-sec ul > li {
+    width: 33.334%;
+}
+.w-our-branches.branch-box > ul {
+    margin-bottom: 30px;
+}
+.time_circles > div {
+    height: 53px;
+}
+.time_circles > div > h4 {
+    bottom: 24px;
+}
+.time_circles > div > span {
+    background: url("../images/timer-bg.png") no-repeat scroll -4px 0 / 114% 95% rgba(0, 0, 0, 0);
+    margin-top: -7px;
+    padding: 13px 0 0;
+}
+.someTimer {
+    height: 100px;
+    width: 295px;
+}
+.comming-soon-page form {
+    display: table;
+    margin: 0 auto 100px;
+}
+.error-page > h1 {
+    float: left;
+    width: 100%;
+}
+.error-page > h1 > img {
+    float: left;
+    width: 100%;
+}
+.error-page {
+    padding: 0 15px 130px;
+}
+.profile-social > ul > li {
+    width: 25%;
+}
+.profile-social > ul > li > a {
+    float:none;
+	margin:0 auto;
+	display:table;
+}
+.countdown-project {
+    padding: 18px 0 23px;
+}
+.contact-sec > span {
+    margin-bottom: 9px;
+    margin-right: 0;
+    margin-top: 0;
+    width: 100%;
+}
+.contact-sec > p {
+    margin: -10px 0 10px;
+}
+.submit {
+    float: left;
+    margin: 0 auto 30px;
+}
+
+
+
+}
+
+@media (max-width: 480px)  {
+.slider {
+    margin: 0;
+}
+.slide2-text1 {
+    font-size: 10px;
+    padding: 10px 10px;
+}
+.slide2-text1 > i {
+    font-size: 10px;
+}
+.slide2-text2 {
+    font-size: 13px;
+    padding: 10px 10px;
+    margin-top: 19px;
+}
+.slide2-text3 {
+    font-size: 13px;
+    padding: 10px 10px;
+    margin-top: 30px;
+}
+.heading1 > h2 {
+    padding-right: 0;
+}
+.tab-sec {
+    padding: 10px;
+}
+#our-Skill-sec > p {
+    padding: 0 9px;
+}
+.success-work > h2 {
+    font-size: 14px;
+}
+.show-product > a {
+    font-size: 10px;
+    padding: 10px;
+}
+#success-work-nav > ul > li > a {
+    padding: 0px 10px;
+    font-size: 10px;
+}
+.heading1 {
+    min-width: 100%;
+}
+.business1 {
+    position: static;
+    float: left;
+}
+.open-menu {
+    display: block;
+	width:100%;
+	margin-bottom:0;
+}
+.business1-top-bar > span {
+    display: table;
+    float: none;
+    margin: 10px auto 0;
+}
+.business1-top-bar > ul {
+    display: none;
+}
+.business1-top-bar > form {
+    display: table;
+    float: none;
+    margin: 10px auto 0;
+    position: static;
+}
+.business1-top-bar {
+    padding-bottom: 0px;
+}
+#menu-sec {
+    height: auto;
+}
+.business1 .logo {
+    float: none;
+    margin: 0 auto;
+    display: table;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.log-in-sec {
+    margin-left: 0;
+    margin-top: -81px;
+    margin: 0 auto;
+    display: table;
+    float: none;
+    margin-top: -30px;
+    margin-bottom: -18px;
+}
+.business1-menu {
+    display: none;
+    float: none;
+    margin: 0 auto;
+    position: absolute;
+    width: 100%;
+    left: 0;
+}
+.slider {
+    margin-top: 0px;
+}
+.business1 {
+    position: relative;
+}
+.business1.style2 #menu-sec.sticky > .container > .log-in-sec {
+    display: table;
+    float: none;
+    margin: 0 auto;
+    width: auto;
+    margin-bottom: 10px;
+}
+.about-ceo-sec > img {
+    position: static;
+    float: none;
+    margin: 0 auto;
+    display: table;
+}
+.ceo-details {
+    padding: 20px;
+}
+.f-recent-office > ul > li > a > i {
+    width: 50%;
+}
+.experties > h2 {
+    font-size: 13px;
+}
+.testimonial-sec li > p {
+    font-size: 18px;
+    padding: 0;
+}
+.our-clients > a {
+    margin-right: 0;
+    margin-top: 20px;
+    width: 100%;
+}
+.show-products-lcds > span > img {
+    float: left;
+    width: 100%;
+    position: static;
+    margin: 0;
+}
+.show-products-lcds {
+    height: auto;
+}
+.show-products-lcds > span {
+    float: left;
+    margin: 0 !important;
+    position: static !important;
+    width: 100%;
+}
+.show-product > h2 {
+    font-size: 17px;
+    line-height: 26px;
+}
+.ceo-detals2 > h3 {
+    font-size: 13px;
+}
+.ceo-detals2 > ul > li > a > i {
+    font-size: 15px;
+    height: 30px;
+    line-height: 30px;
+    width: 30px;
+}
+.purchase-bar > p {
+    font-size: 13px;
+}
+.our-pan-details > ul > li > h3 {
+    font-size: 15px;
+    line-height: 19px;
+}
+.portfolio-sec ul > li {
+    width: 50%;
+}
+.our-blog3-box > h3 {
+    font-size: 14px;
+
+}
+.shop-offer-sec > span {
+    float: none;
+    margin: 0 auto;
+    display: table;
+}
+.shop-offer-sec > p {
+    font-size: 16px;
+}
+.inner-head-sec {
+    margin-top: 0;
+}
+.error-page > h1 > img {
+    float: left;
+    width: 100%;
+}
+.error-page {
+    padding: 0 15px;
+}
+.error-page > h2 {
+    font-size: 16px;
+}
+.error-page > h3 {
+    font-size: 13px;
+}
+.our-project-sec h3 {
+    font-size: 15px;
+}
+#service-sec {
+    float: left;
+    margin-top: 15px;
+    width: 100%;
+}
+.find-a-job > form#place > input {
+    margin-right: 0;
+}
+.product > h3 {
+    font-size: 13px;
+}
+.product > ul {
+    width: 65%;
+}
+.submit {
+    float: right;
+	margin:0 auto 30px;
+}
+.contact-sec > span {
+    margin-bottom: 10px;
+    margin-top: 8px;
+}
+.event-single-img > .event-count {
+    margin-left: -40%;
+    width: 80%;
+}
+.meta-tags {
+    width: 100%;
+}
+.event-single .post-social {
+    margin: 20px 0;
+    width: 100%;
+}
+.register-form h3 {
+    font-size: 15px;
+}
+.theme-layout.boxed {
+    width: 100%;
+}
+.slide1-text1 {
+    font-size: 10px;
+}
+.slide1-text2 {
+    font-size: 13px;
+    margin: -15px 0 0;
+}
+.slide1-text3 {
+    display:none;
+}
+.slide1-btn1 {
+    font-size: 11px;
+    margin-top: -32px;
+    padding: 7px 4px;
+}
+.slide1-btn2 {
+    float: left;
+    margin-left: 0;
+    padding: 11px 9px;
+    margin-top: 0;
+}
+.slide4-text2 {
+    font-size: 12px;
+    margin-left: -97px;
+    margin-top: -30px;
+}
+.slide4-text3 {
+    padding: 1px 4px;
+}
+.slide3-text1 > li > h3 {
+    font-size: 12px;
+    line-height: 9px;
+}
+.slide3-text1 li > p {
+    font-size: 12px;
+    display: none;
+}
+.slide3-text1 > li > i {
+    font-size: 13px;
+    height: 30px;
+    line-height: 30px;
+    margin-right: 15px;
+    width: 30px;
+}
+.slide3-text1 > li > h3 {
+    font-size: 12px;
+    line-height: 9px;
+    margin-top: 12px;
+}
+.toll-details {
+    padding: 40px 20px;
+}
+.toll-details > span {
+    display: table;
+    float: none;
+    font-size: 17px;
+    margin: 0 auto;
+}
+.toll-details > h3 {
+    font-size: 13px;
+    text-align: center;
+}
+.toll-details > p {
+    font-size: 12px;
+    text-align: center;
+}
+.toll-details > a {
+    margin-right: 20px;
+    font-size: 13px;
+    text-align: center;
+    width: 100%;
+    float: left;
+    margin-bottom: 10px;
+}
+.who-we-desc > h3 {
+    font-size: 14px;
+}
+.tab-sec > ul.nav.nav-tabs > li > a {
+    font-size: 12px;
+    padding: 0 10px;
+}
+.theme-layout.boxed {
+    width: 100%;
+}
+.job-table .job-title {
+    width: 100%;
+}
+.job-table .location {
+    width: 50%;
+}
+.job-table .apply-now {
+    width: 50%;
+}
+.features-parallex > li > span {
+    margin-bottom: 20px;
+    float: none;
+    margin: 0 auto;
+    display: table;
+}
+.features-parallex > li > h3 {
+    text-align: center;
+}
+.features-parallex > li > p {
+    text-align: center;
+}
+.subscribe-sec form > label {
+    font-size: 13px;
+}
+.subscribe-sec form > .input-style {
+    width: 100%;
+}
+.subscribe-sec form > .submit {
+    width: 100%;
+    margin-top: 10px;
+}
+.news-detials {
+    overflow: hidden;
+}
+.news-detials > h3 {
+    top: 10px;
+}
+.news-detials > p {
+    top: 10px;
+}
+.testimonial-sec2 li > span {
+    float: none;
+    margin: 0 auto;
+    display: table;
+}
+.testimonial-sec2 li > a {
+    text-align: center;
+}
+.testimonial-sec2 li > p {
+    text-align: center;
+}
+.ceo-detals2 > p {
+    font-size: 15px;
+}
+.our-pan-details > h3 {
+    font-size: 18px;
+}
+.our-pan-details .features-parallex {
+    width: 100%;
+}
+.project-desc {
+    width: 100%;
+}
+.our-project-box > span {
+    padding-left: 0;
+    width: 100%;
+}
+.ceo-plan-detail > h3 {
+    line-height: 24px;
+}
+.ceo-plan-detail > ul > li > h4 {
+    line-height: 24px;
+}
+.portfolio-sec ul > li {
+    width: 100%;
+}
+.our-blog3-box > ul > li {
+    margin-right: 5px;
+}
+#whats-new > img {
+    display: none;
+}
+#we-are-rotate > span {
+    font-size: 15px;
+}
+.roles {
+    font-size: 16px;
+    height: 24px;
+}
+.event-count > h3 {
+    font-size: 13px;
+    margin: 0 0 18px;
+    margin-top: 10px;
+}
+.event-wide .event-count > span {
+    width: 100%;
+    margin: 0;
+    margin-bottom: 10px;
+}
+.our-project-sec h3 {
+    margin-top: 0;
+}
+.project-desc {
+    margin-bottom: 20px;
+}
+#our-office-thumb > li a > span {
+    font-size: 11px;
+}
+.heading3 > h2 {
+    font-size: 13px;
+    line-height: 24px;
+}
+.our-blog-box {
+    float: left;
+    width: 100%;
+    margin-top: 30px;
+}
+.video-paralax > h3 {
+    font-size: 15px;
+    line-height: 24px;
+}
+.video-paralax > p {
+    font-size: 13px;;
+}
+.pagination > ul {
+    float: left;
+    width: 100%;
+    margin-top: 50px;
+}
+.feature-lcd {
+    float: left;
+    width: 100%;
+}
+.present-features > ul > li {
+    font-size: 12px;
+    font-weight: normal;
+}
+.w-our-branches.branch-box > ul > li > h3 {
+    font-size: 13px;
+    line-height: 20px;
+}
+.find-a-job > form#place > input {
+    width: 60%;
+}
+.comming-soon-page h1 {
+    font-size: 12px;
+}
+.comming-soon-page h2 {
+    font-size: 12px;
+    padding: 0 15px;
+    text-align: center;
+    line-height: 23px;
+}
+.comming-soon-page h3 {
+    font-size: 9px;
+}
+.comming-soon-page p {
+    font-size: 13px;
+}
+.comming-soon-page form input[type="text"] {
+    width: 100%;
+}
+.comming-soon-page form input[type="submit"] {
+    float: left;
+    font-size: 15px;
+    margin: 12px 0 0;
+    width: 100%;
+}
+.event-single-img > .event-count {
+    float: left;
+    margin: 13px 0 -32px;
+    position: static;
+    width: 100%;
+}
+.meta-tags > li > a {
+    font-size: 11px;
+    padding: 6px 3px;
+}
+.post-social > li > a {
+    font-size: 11px;
+    height: 25px;
+    line-height: 23px;
+    width: 25px;
+}
+.custom-progress > p > i {
+    margin-bottom: 10px;
+    margin-right: 0;
+    width: 100%;
+}
+.custom-progress > p {
+    line-height: 20px;
+}
+.register-sec {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.submit-form > p {
+    width: 100%;
+}
+.service-single-desc > h3 {
+    font-size: 14px;
+    line-height: 35px;
+}
+.service-single-desc > h3 > i {
+    font-size: 18px;
+    height: 36px;
+    line-height: 36px;
+    margin-right: 15px;
+    width: 36px;
+}
+.service-single-desc > ul > li {
+    font-size: 12px;
+}
+.single-history-sec > img {
+    float: left;
+    width: 100%;
+}
+.single-history-sec > h3 {
+    float: left;
+    margin: 27px 0 15px;
+    width: 100%;
+}
+.single-history-sec > p {
+    float: left;
+    width: 100%;
+}
+.heading1 > h2 {
+    font-size: 15px;
+}
+.slide4-text3 {
+    font-size: 10px;
+    padding: 9px 11px;
+}
+#our-office > .tab-pane.active > .about-tab-desc {
+    padding: 5px;
+}
+.about-tab-desc > h3 {
+    display:none;
+}
+.about-tab-desc > ul > li > p {
+    line-height: 14px;
+}
+.error-page > form > input {
+    width: 80%;
+}
+.error-page > form > i {
+    float: right;
+    text-align: center;
+    width: 20%;
+}
+.error-page > form {
+    width: 100%;
+}
+.error-page > .error-footer {
+    float: left;
+    position: relative;
+}
+.error-page > ul {
+    margin: 15px 0;
+    width: 100%;	
+}
+.error-page > ul > li {
+    margin: 0;
+    width: 100%;
+}
+.error-page > ul > li > a {
+    margin-bottom: 10px;
+    text-align: center;
+    width: 100%;
+}
+#my-profile-info > span {
+    font-size: 14px;
+    line-height: 18px;
+}
+.submit-form > input {
+    padding: 10px 0;
+    width: 100%;
+}
+.author-post > span {
+    display: table;
+    float: none;
+    margin: 0 auto;
+}
+.author-post > a {
+    text-align: center;
+}
+.author-post > p {
+    text-align: center;
+}
+
+
+
+}
